@@ -258,6 +258,6 @@ Thanks go to these wonderful people:
 [issues-shield]: https://img.shields.io/github/issues/itzappu/lavamusic.svg?style=for-the-badge
 [issues-url]: https://github.com/itzappu/lavamusic/issues
 [license-shield]: https://img.shields.io/github/license/itzappu/lavamusic.svg?style=for-the-badge
-[license-url]: https://github.com/itzappu/lavamusic/blob/master/LICENSE
+[license-url]: https://github.com/itzappu/lavamusic/blob/main/LICENSE
 [support-server]: https://discord.gg/YQsGbTwPBx
 [support-shield]: https://img.shields.io/discord/942117923001098260.svg?style=for-the-badge&logo=discord&colorB=7289DA
